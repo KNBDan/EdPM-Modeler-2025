@@ -5,7 +5,7 @@ package jMDIForm;
 //import line.LineStraight;
 //import line.Line;
 //import properties.PropertiesDialog;
-import java.awt.Toolkit;//для буфера обмена
+import java.awt.Toolkit; //для буфера обмена
 import java.awt.datatransfer.Clipboard;//для буфера обмена
 import java.awt.datatransfer.StringSelection;//для буфера обмена
 
