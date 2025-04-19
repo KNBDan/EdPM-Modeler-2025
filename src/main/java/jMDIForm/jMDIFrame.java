@@ -1278,7 +1278,7 @@ public class jMDIFrame extends JInternalFrame {
             for (points ps : points) {
                 oneShapePoints(points.indexOf(ps));
                 for (Shape l : pointShape) {
-                    if (l.contains(evt.getPoint())) { //курсор находится на точке соединения 
+                    if (l.contains(evt.getPoint())) { // Курсор находится на точке соединения 
 //                        id22 = pointShape.indexOf(l);
 //                        id2 = all.get(points.indexOf(ps)).getId();
                         //jPanel1.removeAll();
